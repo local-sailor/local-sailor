@@ -11,7 +11,7 @@ If they made it with no limitations and
 
 the designed ended up being quite fun. 
 
-That day Codex showed me a thing or two about front-end development, i was #amazed.
+🤓 That day Codex showed me a thing or two about front-end development, i was #amazed.
 
 🙏 I hope you are having a wonderful day
 
