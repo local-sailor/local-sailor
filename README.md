@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🥳 This is is Ivan
+🥳 This is is Ivan 🚢
 
 
 🚀 I originally had a [portfolio website](https://projectivanpatrick.onrender.com/).
