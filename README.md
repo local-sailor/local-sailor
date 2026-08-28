@@ -9,7 +9,9 @@ Then one day I asked Codex what it would look like
 
 If they made it with no limitations and
 
-the designed ended up being quite fun. 
+the design ended up being quite fun
+
+so kept it. Life needs to be fun somtimes.
 
 🤓 That day Codex showed me a thing or two about front-end development, i was 🤩 #amazed.
 
